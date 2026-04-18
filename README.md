@@ -86,23 +86,25 @@ The custom controller performs the following tasks:
 
 ## 📸 Output Screenshots
 
+## 📸 Output Screenshots
+
 ### Controller Started Successfully
-![Controller](assets/controller-started.png)
+![Controller](./assets/controller-started.png)
 
 ### Mininet Topology Created
-![Topology](assets/mininet-topology.png)
+![Topology](./assets/mininet-topology.png)
 
 ### Ping Test Successful
-![Ping](assets/pingall-success.png)
+![Ping](./assets/pingall-success.png)
 
 ### Flow Statistics Output
-![Stats](assets/flow-stats-output.png)
+![Stats](./assets/flow-stats-output.png)
 
 ### Source Code - Part 1
-![Code1](assets/code-main-part1.png)
+![Code1](./assets/code-main-part1.png)
 
 ### Source Code - Part 2
-![Code2](assets/code-main-part2.png)
+![Code2](./assets/code-main-part2.png)
 
 ---
 
