@@ -80,6 +80,8 @@ The custom controller performs the following operations:
 
 ## 📸 Output Screenshots
 
+Screenshots are available in the `assets/` folder:
+
 ### Controller Started Successfully
 ![Controller](assets/controller-started.png)
 
