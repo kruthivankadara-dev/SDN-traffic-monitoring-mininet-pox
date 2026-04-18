@@ -95,9 +95,6 @@ The custom controller performs the following tasks:
 ### Ping Test Successful
 ![Ping](assets/pingall-success.png)
 
-### Packet Received Logs
-![Packets](assets/packet-received-output.png)
-
 ### Flow Statistics Output
 ![Stats](assets/flow-stats-output.png)
 
